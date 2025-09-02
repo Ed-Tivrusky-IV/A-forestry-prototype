@@ -13,3 +13,7 @@ To make the .glb models get rendered correctly, you need to download the glTFast
 * In the "Name" field, enter: com.unity.cloud.gltfast
 * Click the Add button.
 If you cannot find the prefab in your scene view.
+
+## A short preview on the system
+https://github.com/user-attachments/assets/9a0a1750-bf7e-4cfd-bf53-30d59f6234a1
+
