@@ -1,7 +1,7 @@
 ## How to control the vehicle
 * Please use wsad to translate and rotate
 * Press space bar to fly the drone. While the drone is in the air, the vehicle's movement is deactivated.
-* Press the M key to toggle the 360 view menu which is supposed to get updated each fly. However, the current 3 sets of images are just dummy content. Will update the 360 camera later.
+* Press the M/Esc key to toggle the 360 view menu which is supposed to get updated each fly. However, the current 3 sets of images are just dummy content. Will update the 360 camera later.
 * Use the left/right arrows to traverse the menu.
 
 ## Things to notice
